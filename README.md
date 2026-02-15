@@ -46,6 +46,12 @@
 
 ---
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimmanagotitharunkumarhello&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
