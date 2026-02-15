@@ -92,6 +92,14 @@
 
 ---
 
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nimmanagotitharunkumarhello/nimmanagotitharunkumarhello/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
 <p align="center">
   <b>⚡ I don’t just learn AI — I build with it.</b>
 </p>
