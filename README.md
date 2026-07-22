@@ -12,6 +12,8 @@
 
 ---
 
+
+## need to changes it few things soo  ... waittttttttttt
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering Student  
